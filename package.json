@@ -1,6 +1,7 @@
 {
-  "homepage": "https://github.com/florbear23/reactAppv3.git",
+  
   "name": "reminder",
+  "homepage": "https://github.com/florbear23/reactAppv3.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
