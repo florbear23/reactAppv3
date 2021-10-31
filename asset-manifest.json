@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/florbear23/reactAppv3.git/static/css/main.8e49c9d7.chunk.css",
+    "main.js": "/florbear23/reactAppv3.git/static/js/main.94607e4b.chunk.js",
+    "main.js.map": "/florbear23/reactAppv3.git/static/js/main.94607e4b.chunk.js.map",
+    "runtime-main.js": "/florbear23/reactAppv3.git/static/js/runtime-main.7f500aac.js",
+    "runtime-main.js.map": "/florbear23/reactAppv3.git/static/js/runtime-main.7f500aac.js.map",
+    "static/js/2.b79bb511.chunk.js": "/florbear23/reactAppv3.git/static/js/2.b79bb511.chunk.js",
+    "static/js/2.b79bb511.chunk.js.map": "/florbear23/reactAppv3.git/static/js/2.b79bb511.chunk.js.map",
+    "index.html": "/florbear23/reactAppv3.git/index.html",
+    "precache-manifest.1ac29516318b7abd52d2213297771919.js": "/florbear23/reactAppv3.git/precache-manifest.1ac29516318b7abd52d2213297771919.js",
+    "service-worker.js": "/florbear23/reactAppv3.git/service-worker.js",
+    "static/css/main.8e49c9d7.chunk.css.map": "/florbear23/reactAppv3.git/static/css/main.8e49c9d7.chunk.css.map",
+    "static/js/2.b79bb511.chunk.js.LICENSE.txt": "/florbear23/reactAppv3.git/static/js/2.b79bb511.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f500aac.js",
+    "static/js/2.b79bb511.chunk.js",
+    "static/css/main.8e49c9d7.chunk.css",
+    "static/js/main.94607e4b.chunk.js"
+  ]
+}
